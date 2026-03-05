@@ -1,10 +1,10 @@
 Link Streamlit: https://dashboard-impulsif-genz-if-ps.streamlit.app/
 
-# Dashboard Ringkas (Skripsi) — PrefixSpan + Isolation Forest
+# Dashboard Ringkas — Isolation Forest & PrefixSpan
 
-- Filter **tahun** & **umur** (input angka dari…sampai…)
+- Filter **tahun** & **umur**
 - Input **minimum panjang sequence customer**
-- Output langsung: **Interpretasi Impulsif**, **Pola Impulsif vs Normal**, **Diskon vs Non-Diskon**, dan **runtime**
+- Output: **Interpretasi Impulsif**, **Pola Impulsif vs Normal**, **Diskon vs Non-Diskon**, dan **runtime**
 
 Parameter model dan mining dikunci (auto) agar konsisten dengan notebook riset.
 
