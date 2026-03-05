@@ -1,4 +1,4 @@
-Link Streamlit: https://deploy-app-prefixspan-if.streamlit.app/
+Link Streamlit: https://dashboard-impulsif-genz-if-ps.streamlit.app/
 
 # Dashboard Ringkas (Skripsi) — PrefixSpan + Isolation Forest
 

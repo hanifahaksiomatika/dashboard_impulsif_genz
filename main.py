@@ -49,7 +49,6 @@ from core import (
 st.set_page_config(page_title="Dashboard Impulsif Gen Z", page_icon="🛒", layout="wide")
 
 st.markdown("# Dashboard Analisis Pola Belanja Impulsif Gen Z")
-st.caption("Untuk Tim Marketing & Analisis Bisnis")
 css = Path(__file__).parent / "style.css"
 if css.exists():
     st.markdown(f"<style>{css.read_text()}</style>", unsafe_allow_html=True)
